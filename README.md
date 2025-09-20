@@ -1,5 +1,3 @@
-<!-- Banner at the top -->
-![Hossam's Banner](https://raw.githubusercontent.com/Hossam/Hossam/main/hossam-github-banner.svg)
 
 # 👋 Hey, I'm Hossam
 
