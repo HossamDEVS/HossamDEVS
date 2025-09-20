@@ -15,7 +15,7 @@
 ---
 
 ## 🛠 Tech Toolbox
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,tailwind,html,css,git,github,docker,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,tailwind,html,css,git,github,docker,vercel,aws)](https://skillicons.dev)
 
 ---
 
@@ -28,8 +28,7 @@
 
 ## 📊 GitHub Highlights
 ![Hossam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossam&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Hossam&theme=radical)
+
 
 ---
 
